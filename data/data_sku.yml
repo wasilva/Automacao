@@ -4,7 +4,7 @@ sku_video: ["7504913"]
 sku_produto: "Chapa Mondial"
 produto: ["Chapa Mondial", "batedeira"]
 
-sku_retira: ["bicicleta", "fogão"]
+sku_retira: ["bicicleta", "fogão", "cadeira"]
 
 sku_lojista: ["7316834"]
 
